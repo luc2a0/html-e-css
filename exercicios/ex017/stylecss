@@ -1,0 +1,16 @@
+ <style>
+    @charset "UTF-8";
+     
+            body {
+                background-color: aquamarine; font-size: large; font-family: 'Times New Roman', Times, serif;
+            }
+            h1 {
+            color: blue; background-color: azure;
+            }
+            h2{
+                color: black;
+            }
+            p{
+                text-align: justify;
+            }
+ </style>
