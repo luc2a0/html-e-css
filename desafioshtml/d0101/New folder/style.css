@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(12, 12, 12);
+    color: aliceblue;
+}
+h1 {
+    padding-left: 90px;
+}
